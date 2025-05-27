@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        SERVICE = 'auth'
+        SERVICE = 'auth-service'
         NAME = "mmp052/${env.SERVICE}"
     }
     stages {
