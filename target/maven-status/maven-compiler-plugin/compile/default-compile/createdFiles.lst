@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 store/auth/JwtService.class
 store/auth/AuthResource.class
 store/auth/Register$RegisterBuilder.class
@@ -5,3 +6,12 @@ store/auth/AuthService.class
 store/auth/AuthApplication.class
 store/auth/Register.class
 store/auth/AuthParser.class
+=======
+main/java/store/auth/AuthParser.class
+main/java/store/auth/Register.class
+main/java/store/auth/Register$RegisterBuilder.class
+main/java/store/auth/AuthApplication.class
+main/java/store/auth/AuthService.class
+main/java/store/auth/JwtService.class
+main/java/store/auth/AuthResource.class
+>>>>>>> 28797ce57b29866ca76627e008164a74036e388d

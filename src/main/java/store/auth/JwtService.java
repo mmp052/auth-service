@@ -55,5 +55,10 @@ public class JwtService {
         JwtParser parser = Jwts.parser().verifyWith(key).build();
         return parser.parseSignedClaims(token).getPayload();
     }
+<<<<<<< HEAD
     
 }
+=======
+
+}
+>>>>>>> 28797ce57b29866ca76627e008164a74036e388d
