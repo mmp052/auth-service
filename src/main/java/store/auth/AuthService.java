@@ -19,10 +19,6 @@ public class AuthService {
     @Autowired
     private JwtService jwtService;
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 28797ce57b29866ca76627e008164a74036e388d
     public String register(Register register) {
         AccountIn accountIn = AccountIn.builder()
             .email(register.email())
